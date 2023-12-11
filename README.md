@@ -33,7 +33,7 @@ Examples of the historical data, the features, includes the:
 - Derogatory remarks
 - Total debt
 
-The goal is to __minimise the false negatives__, as the cost of missing an actual positive is very high, hence focus on __recall__. Secondary to this would be minimising false positives, as investigations conducted on suspected fraudulent loans would be an acceptable tradeoff.
+The goal is to __minimise the false negatives__, as the cost of missing an actual positive is very high, hence focus on __recall__ for high-risk loans as opposed to healthy loans. Secondary to this would be minimising false positives, as investigations conducted on suspected fraudulent loans would be an acceptable tradeoff.
 
 ### Repository Structure
 - The root directory contains the source code: `credit_risk_classification.ipynb`
@@ -105,7 +105,7 @@ The approach above outlines the models to be compared in the analysis section. T
 | $$\frac{100 * (12-67)}{67} = -82\\% $$ | $$\frac{100 * (90-80)}{80} = 13\\% $$ |
 
 ### Conclusion
-It is recommended to use the __Model 2__, which uses scaling, as it retains the `99%` model accuracy whilst optimising recall.
+It is recommended to use the __Model 2__, which uses scaling, as it retains the `99%` model accuracy whilst optimising recall for predicting the high-risk loans.
 
 This model minimises the false negatives, with a decrease of `82%` from __Model 1__, meaning only `12` fraudulent loans were missed compared to `67`. This is acceptable, despite the `13%` increase in false positives, meaning an extra `10` healthy loans were suspected as high-risk and investigated.
 
