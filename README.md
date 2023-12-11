@@ -74,6 +74,7 @@ The approach above outlines the models to be compared in the analysis section. T
 
 2. Although scaling in a logistic regression is not a requirement. This was explored whether it would provide improved performance, as it was observed there were scale differences between the different features.
 
+
 ## Analysis
 
 ### Without Scaling
@@ -110,6 +111,7 @@ It is recommended to use the __Model 2__, which uses scaling, as it retains the 
 This model minimises the false negatives, with a decrease of `82%` from __Model 1__, meaning only `12` fraudulent loans were missed compared to `67`. This is acceptable, despite the `13%` increase in false positives, meaning an extra `10` healthy loans were suspected as high-risk and investigated.
 
 This model is recommended for its high accuracy and optimised tradeoff between identifying fraudulent loans (false negatives) and undertaking investigations on healthy loans (false positives).
+
 
 ## References
 - [1] Imbalanced Data - [https://developers.google.com/machine-learning/data-prep/construct/sampling-splitting/imbalanced-data](https://developers.google.com/machine-learning/data-prep/construct/sampling-splitting/imbalanced-data)
