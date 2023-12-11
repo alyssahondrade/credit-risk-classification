@@ -14,7 +14,7 @@ Github repository at: [https://github.com/alyssahondrade/credit-risk-classificat
     1. [Without Scaling](https://github.com/alyssahondrade/credit-risk-classification/tree/main#without-scaling)
     2. [With Scaling](https://github.com/alyssahondrade/credit-risk-classification/tree/main#with-scaling)
     3. [Conclusion](https://github.com/alyssahondrade/credit-risk-classification/tree/main#conclusion)
-4. [References]()
+4. [References](https://github.com/alyssahondrade/credit-risk-classification/blob/main/README.md#references)
 
 
 ## Introduction
