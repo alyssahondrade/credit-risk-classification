@@ -70,3 +70,11 @@ The approach above outlines the models to be compared in the analysis section. T
 2. Although scaling in a logistic regression is not a requirement. This was explored whether it would provide improved performance, as it was noted the scale differences between the different features.
 
 ## Analysis
+
+|Confusion Matrices|
+|![confusion_matrix_not_scaled](https://github.com/alyssahondrade/credit-risk-classification/blob/main/Images/CM_not_scaled.png)|![confusion_matrix_scaled](https://github.com/alyssahondrade/credit-risk-classification/blob/main/Images/CM_scaled.png)|
+|:---:|:---:|
+|Not Scaled|Scaled|
+
+|![classification_report_not_scaled](https://github.com/alyssahondrade/credit-risk-classification/blob/main/Images/CR_not_scaled.png)|
+|:---:|
