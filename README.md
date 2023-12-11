@@ -5,15 +5,15 @@ Github repository at: [https://github.com/alyssahondrade/credit-risk-classificat
 
 
 ## Table of Contents
-1. [Introduction]()
-    1. [Goal]()
-    2. [Repository Structure]()
-    3. [Dataset]()
-2. [Approach]()
-3. [Analysis]()
-    1. [Without Scaling]()
-    2. [With Scaling]()
-    3. [Conclusion]()
+1. [Introduction](https://github.com/alyssahondrade/credit-risk-classification/tree/main#introduction)
+    1. [Goal](https://github.com/alyssahondrade/credit-risk-classification/tree/main#goal)
+    2. [Repository Structure](https://github.com/alyssahondrade/credit-risk-classification/tree/main#repository-structure)
+    3. [Dataset](https://github.com/alyssahondrade/credit-risk-classification/tree/main#dataset)
+2. [Approach](https://github.com/alyssahondrade/credit-risk-classification/tree/main#approach)
+3. [Analysis](https://github.com/alyssahondrade/credit-risk-classification/tree/main#analysis)
+    1. [Without Scaling](https://github.com/alyssahondrade/credit-risk-classification/tree/main#without-scaling)
+    2. [With Scaling](https://github.com/alyssahondrade/credit-risk-classification/tree/main#with-scaling)
+    3. [Conclusion](https://github.com/alyssahondrade/credit-risk-classification/tree/main#conclusion)
 
 ## Introduction
 
