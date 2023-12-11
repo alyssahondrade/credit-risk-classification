@@ -14,6 +14,8 @@ Github repository at: [https://github.com/alyssahondrade/credit-risk-classificat
     1. [Without Scaling](https://github.com/alyssahondrade/credit-risk-classification/tree/main#without-scaling)
     2. [With Scaling](https://github.com/alyssahondrade/credit-risk-classification/tree/main#with-scaling)
     3. [Conclusion](https://github.com/alyssahondrade/credit-risk-classification/tree/main#conclusion)
+4. [References]()
+
 
 ## Introduction
 
@@ -108,3 +110,6 @@ It is recommended to use the __Model 2__, which uses scaling, as it retains the 
 This model minimises the false negatives, with a decrease of `82%` from __Model 1__, meaning only `12` fraudulent loans were missed compared to `67`. This is acceptable, despite the `13%` increase in false positives, meaning an extra `10` healthy loans were suspected as high-risk and investigated.
 
 This model is recommended for its high accuracy and optimised tradeoff between identifying fraudulent loans (false negatives) and undertaking investigations on healthy loans (false positives).
+
+## References
+- [1] Imbalanced Data - [https://developers.google.com/machine-learning/data-prep/construct/sampling-splitting/imbalanced-data](https://developers.google.com/machine-learning/data-prep/construct/sampling-splitting/imbalanced-data)
