@@ -71,10 +71,13 @@ The approach above outlines the models to be compared in the analysis section. T
 
 ## Analysis
 
-|Confusion Matrices|
-|![confusion_matrix_not_scaled](https://github.com/alyssahondrade/credit-risk-classification/blob/main/Images/CM_not_scaled.png)|![confusion_matrix_scaled](https://github.com/alyssahondrade/credit-risk-classification/blob/main/Images/CM_scaled.png)|
-|:---:|:---:|
-|Not Scaled|Scaled|
+__No Scaling__
 
-|![classification_report_not_scaled](https://github.com/alyssahondrade/credit-risk-classification/blob/main/Images/CR_not_scaled.png)|
-|:---:|
+|![confusion_matrix_not_scaled](https://github.com/alyssahondrade/credit-risk-classification/blob/main/Images/CM_not_scaled.png)|![classification_report_not_scaled](https://github.com/alyssahondrade/credit-risk-classification/blob/main/Images/CR_not_scaled.png)|
+|:---:|:---:|
+
+__Scaled__
+|![confusion_matrix_scaled](https://github.com/alyssahondrade/credit-risk-classification/blob/main/Images/CM_scaled.png)|![classification_report_scaled](https://github.com/alyssahondrade/credit-risk-classification/blob/main/Images/CR_scaled.png)|
+|:---:|:---:|
+
+
